@@ -3,5 +3,4 @@ asyncio
 requests
 bs4
 selenium
-opencv-python
-cv2
+opencv-python==4.2.0.34
