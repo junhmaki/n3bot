@@ -2,4 +2,5 @@ discord.py
 asyncio
 requests
 bs4
-gspread
+selenium
+cv2
